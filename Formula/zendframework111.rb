@@ -1,6 +1,6 @@
 require File.join(File.dirname(__FILE__), 'meta-zendframework')
 
-class Zendframework111 < MetaZendFramework
+class Zendframework111 < MetaZendframework
   init
 
   minimum = 'https://packages.zendframework.com/releases/ZendFramework-1.11.15/ZendFramework-1.11.15-minimal.tar.gz'

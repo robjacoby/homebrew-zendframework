@@ -1,6 +1,6 @@
 require File.join(File.dirname(__FILE__), 'meta-zendframework')
 
-class Zendframework206 < MetaZendFramework
+class Zendframework206 < MetaZendframework
   init
 
   minimum = 'https://packages.zendframework.com/releases/ZendFramework-2.0.6/ZendFramework-minimal-2.0.6.tgz'

@@ -1,6 +1,6 @@
 require 'formula'
 
-class MetaZendFramework < Formula
+class MetaZendframework < Formula
   full = ''
   full_sha1 = ''
 
